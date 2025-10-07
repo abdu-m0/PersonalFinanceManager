@@ -1,0 +1,19 @@
+{
+  "name": "Finance PWA",
+  "short_name": "Finance",
+  "description": "Personal finance manager for transactions, loans, bill splits, and contacts.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#2563eb",
+  "theme_color": "#2563eb",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icons/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
